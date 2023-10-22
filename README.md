@@ -1,5 +1,7 @@
 # Provably Adversarially Robust Nearest Prototype Classifiers
-code for our ICML 2022 paper "Provably Adversarially Robust Nearest Prototype Classifiers" (under construction)
+code for our ICML 2022 paper for the master thesis topic based on the original implementaion from
+[heine imple](https://github.com/vvoracek/Provably-Adversarially-Robust-Nearest-Prototype-Classifiers)
+
 
 Before running the experiments, install the dependencies with:
 
