@@ -1,5 +1,5 @@
 # Provably Adversarially Robust Nearest Prototype Classifiers
-code for our ICML 2022 paper for the master thesis topic based on the original implementaion from
+code for our master thesis topic "Comparison of Generalised Learning Vector Quantization learning dynamic and numerical stability regarding the Crammer-normalization and the Hein-normalization for adversarial robustness" based on the original implementation from
 [heine imple](https://github.com/vvoracek/Provably-Adversarially-Robust-Nearest-Prototype-Classifiers)
 
 
